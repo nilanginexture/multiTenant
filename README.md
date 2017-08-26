@@ -1,2 +1,2 @@
 # multiTenant
-Multi-tenant in django
+Multi-tenant in django with PostgreSQL as database.
